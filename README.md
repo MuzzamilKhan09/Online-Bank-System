@@ -1,0 +1,2 @@
+# Online-Bank-System
+This Online Bank Management System provides an access to the Bank Manager, Bank Teller, and User or Account Holders. The said user roles have different permission, features, and functionalities from each other. The Bank Manager users are the ones who are in charge of creating the account of the Account Holders and Teller System Credentials. These said features contains create, list, and delete functionalities. This user can also send and notice message to each account holder.
